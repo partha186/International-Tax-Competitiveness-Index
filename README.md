@@ -1,4 +1,4 @@
-# International Tax Competitiveness Index — Step-by-Step Derivation
+# International Tax Competitiveness Index 
 
 A from-scratch Python (and [Excel](ITCI_Calculator.xlsx)) replica of the Tax
 Foundation's [International Tax Competitiveness Index](https://github.com/TaxFoundation/international-tax-competitiveness-index)
